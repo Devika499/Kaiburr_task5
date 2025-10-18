@@ -1,9 +1,9 @@
-# Kaiburr Task 5 (Data Science Example)
+# Kaiburr Task 5 — Data Science (Perform a Text Classification on consumer complaint dataset)
 
-**Candidate Name:** R Devika  
-**Date:** 18 October 2025 
-
----
+## Candidate Details
+**Name:** R Devika  
+**Date:** 18 October 2025  
+**Task:** Data Science example
 
 ## Overview
 This project performs **Text Classification** on the [Consumer Complaint Database](https://catalog.data.gov/dataset/consumer-complaint-database) published by the **Consumer Financial Protection Bureau (CFPB)**.  
